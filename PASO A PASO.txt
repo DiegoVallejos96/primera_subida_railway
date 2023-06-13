@@ -17,6 +17,8 @@ creamos pool y alli los datos de la BD de mysql
 
 importamos a la app.js
 
+creamos el proyecto en railway y la provision de mysql
+pasamos la data de conexion de la BD a la app de despliegue de railway
 
 
 
